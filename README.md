@@ -20,12 +20,10 @@ The algorithm tags an analyst’s questions as indirect (**Indirectness**) if on
 
 ***Requirements:***
 **Data (Preprocessing)** - In order to apply the RegEx to analyst’s questions you need to preprocess conference call transcripts in the following manner:
-
 - Each respective analyst question needs to constitute one observation. Hence, if an analyst is allowed to ask three consecutive questions, this results in three observations.
 - Questions need to be transformed to uppercase.
 
 **Modules (Python packages)** - Please make sure to install the latest version of the following Python modules:
-
 - [Numpy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [re](https://docs.python.org/3/library/re.html)
