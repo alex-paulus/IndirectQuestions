@@ -13,7 +13,7 @@ As described in the paper, the identification approach is based on regular expre
 
 The RegEx basically distinguishes between four different types of indirect questions: 
 
-   1. Query preparatory phrases (**QueryPrepQ**): e.g., *“could you…?”*
+   1. Query preparatory phrases (**QueryPrepQ**): e.g., *“Could you…?”*
    2. Hedged statements (**HedgedQ**): e.g., *“Just wondering…"*
    3. Want statement (**WantQ**): e.g., *“I wanted to ask…”*
    4. If-clauses (**IfQ**): e.g., *“If you could…”*
